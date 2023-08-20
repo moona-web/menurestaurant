@@ -1,0 +1,12 @@
+div > div > div > .menu > button {
+  color: rgb(228, 115, 75);
+  border: 1px solid rgb(228, 115, 75);
+  background-color: white;
+  border-radius: 10px;
+}
+
+div > div > div > .pics > .all > div:nth-of-type(1) > img {
+  border: 5px solid brown;
+  -o-object-fit: contain;
+     object-fit: contain;
+}/*# sourceMappingURL=master.css.map */
